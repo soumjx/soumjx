@@ -49,8 +49,7 @@ I'm a Software Engineer. I am self teaching myself AI and Machine Learning
 
 | Course | Platform | Focus Area | Status |
 |--------|----------|------------|--------|
-| Complete Data Science,Machine Learning,DL,NLP Bootcamp
-| Udemy | ML Basics | 🔄 In Progress |
+| Complete Data Science,Machine Learning,DL,NLP Bootcamp | Krish Naik Udemy | Full Bootcamp | 🔄 In Progress |
 
 
 ---
