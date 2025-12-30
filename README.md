@@ -49,12 +49,9 @@ I'm a Software Engineer. I am self teaching myself AI and Machine Learning
 
 | Course | Platform | Focus Area | Status |
 |--------|----------|------------|--------|
-| Machine Learning Specialization| Coursera | ML Basics | 🔄 In Progress |
-| SQL Full Course for Beginners (30 Hours) – From Zero to Hero| Youtube | SQL | 🔄 In Progress |
-| TensorFlow Data and Deployment | Coursera | ML Deployment | 🔄 In Progress |
-| Agentic AI Development | Udemy | AI Agents | 🔄 In Progress |
-| Langchain & CrewAI | Online | LLM Development | 🔄 In Progress |
-| German Language | Udemy | A1-A2 Level | 🔄 In Progress |
+| Complete Data Science,Machine Learning,DL,NLP Bootcamp
+| Udemy | ML Basics | 🔄 In Progress |
+
 
 ---
 
